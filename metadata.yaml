@@ -1,10 +1,13 @@
 _repo: The-Last-Egyptian-A-Romance-of-the-Nile_55020
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Wightman, Francis P.
     gutenberg_agent_id: '46817'
     url: http://www.gutenberg.org/2009/agents/46817
+covers:
+- cover_type: archival
+  image_path: 55020-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Baum, L. Frank (Lyman Frank)
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42
     wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55020#The-Last-Egyptian-A-Romance-of-the-Nile
 gutenberg_issued: '2017-07-01'
 gutenberg_type: Text
 identifiers:
