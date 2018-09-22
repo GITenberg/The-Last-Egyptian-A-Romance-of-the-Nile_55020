@@ -1,0 +1,40 @@
+_repo: The-Last-Egyptian-A-Romance-of-the-Nile_55020
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wightman, Francis P.
+    gutenberg_agent_id: '46817'
+    url: http://www.gutenberg.org/2009/agents/46817
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Baum, Lyman Frank
+    - Akers, Floyd
+    - Van Dyne, Edith
+    - Bancroft, Laura
+    - Fitzgerald, Capt. Hugh
+    - Cooke, John Estes
+    - Fitzgerald, Hugh
+    - Staunton, Schuyler
+    - Metcalf, Suzanne
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: ''
+gutenberg_issued: '2017-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Last Egyptian
+
+  A Romance of the Nile'
+url: http://www.gutenberg.org/ebooks/55020
